@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cli-mpv", "mpv-tui-sharp\mpv-tui-sharp.csproj", "{58BC2F0C-032A-43B3-8CB4-FBC4C59D15FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58BC2F0C-032A-43B3-8CB4-FBC4C59D15FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58BC2F0C-032A-43B3-8CB4-FBC4C59D15FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58BC2F0C-032A-43B3-8CB4-FBC4C59D15FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58BC2F0C-032A-43B3-8CB4-FBC4C59D15FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
