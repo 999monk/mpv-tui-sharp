@@ -1,6 +1,6 @@
 ### mpv-tui-sharp
 
-Es una interfaz de usuario de terminal (TUI) creada con C#, ligera y centrada en el teclado para el reproductor multimedia mpv. Proporciona una forma rápida de explorar y reproducir tu biblioteca de música local (album-oriented) directamente desde tu terminal de preferencia.
+Interfaz de usuario de terminal (TUI) creada con C#, ligera y centrada en el teclado para el reproductor mpv. Proporciona una forma rápida de explorar y reproducir tu biblioteca de música local (album-oriented) directamente desde la terminal.
 
 ![tui en funcionamiento](docs/screenshot.png)
 
@@ -13,14 +13,14 @@ Es una interfaz de usuario de terminal (TUI) creada con C#, ligera y centrada en
 - Control de reproducción integrado: envía comandos directamente a mpv para reproducir álbumes completos, pausar, reproducir toda la biblioteca en modo aleatorio (shuffle); saltar canción y bajar/subir volumen.
 
 #### Requisitos
-- [mpv](https://mpv.io/) instalado y en el PATH
+- [mpv](https://mpv.io/) instalado y en el PATH.
 
 #### Binds:
 - `↑/↓` para navegar.
 - `ENTER` para seleccionar.
 - `SPACE` para pausar.
 - `p` para reproducir album.
-- `s` para reproducir en aleaotrio todas las carpetas.
+- `s` para reproducir en aleatorio todas las carpetas.
 - `z/x` subir y bajar el volumen. 
 - `b` buscar artista/album.
 - `ESC` para ir atrás.
