@@ -1,0 +1,16 @@
+Mejoras generales.
+
+----------------------------------REALIZADAS--------------------------------------
+
+1. Función de Búsqueda/Filtro: Añadir una tecla (ej. `/`) que abra un campo de texto para buscar álbumes o pistas en tiempo real. Esto es crucial para bibliotecas grandes.
+2. Controles Avanzados: Añadir atajos de teclado para controlar el volumen.
+
+----------------------------------Pendientes--------------------------------------
+
+
+
+----------------------------futuroIndeterminado-----------------------------------
+
+3. Lectura de Metadatos (Tags): En lugar de depender de la estructura de carpetas `Artista - Álbum`, usar una librería como `TagLib#` para leer los metadatos de los archivos.
+
+4. Integrar con yt-dlp para búsqueda online.

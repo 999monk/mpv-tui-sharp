@@ -1,0 +1,26 @@
+
+MEJORAS Y FIXES URGENTES, en orden de prioridad:
+
+-----------------------REALIZADAS------------------------
+
+--SOLUCIONADO-- (BUG) al paso de cierto tiempo se pausa la reproducción, cuando cierro la terminal arranca a escucharse de nuevo. SOLUCIONADO
+--SOLUCIONADO-- Escuchar albums enteros. Comunicación bidireccional con mpv para escuchar los eventos que mpv emite. El más importante sería el evento de "fin de archivo" (end-file), que permitiría a la aplicación reproducir automáticamente la siguiente canción de la lista sin intervención del usuario.  
+--SOLUCIONADO-- Actualizar UI para cuando se reproduzcan albums, ya que no abrá contacto directocon mpv. Mostrar nombre de el album (la carpeta) que está sonado. 
+    "Playing ---".      
+--SOLUCIONADO-- Que el ShowStatus (playing, paused) sea fijo tanto en ShowAlbum como en ShowTracks, que se mantanga hasta que se reproduzca otra cosa porque por ahora cambia según la carpeta a la que entremos. De este problemtia se desprende otro: si ponemos la canción 5 de un album x, cuando navegamos hacia otra carpeta aparece seleccionada y como si se estuviera reproduciendo la canción que ocupa la posición 5 de ese album. Por eso también quiero que quede "fijo" el ShowStatus.
+--SOLUCIONADO-- Agregar opción, ejecutable desde el menu inicial, para escuchar en modo aleatorio (--shuffle) cada canción de todas las carpetas. Es decir: que pueda sonar cualquier canción de cualquier carpeta en cualquier orden por un tiempo indeterminado. 
+--SOLUCIONADO-- Agregar archivo de configuración configurable para evitar hardcodeo. 
+
+-------------------------Pendientes-------------------------
+    
+
+
+   
+---------------------futuroIndeterminado-----------------------------   
+   
+   
+3.  Dentro de algunos albums se repite el número de la canción. Ej:
+   01 - 01 nombre_de_la_canción.
+   02 - 02 nombre_de_otra_canción.
+4. Visualizar progreso y tiempo. Mejorar la barra de estado inferior para que muestre el tiempo transcurrido y la duración total de la pista actual, 
+   solo con números: 0:00 / 3:27.

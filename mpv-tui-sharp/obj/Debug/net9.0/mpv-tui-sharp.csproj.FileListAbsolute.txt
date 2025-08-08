@@ -26,3 +26,4 @@ D:\DEV\proyectos\mpv-tui-sharp\mpv-tui-sharp\obj\Debug\net9.0\refint\mpv-tui-sha
 D:\DEV\proyectos\mpv-tui-sharp\mpv-tui-sharp\obj\Debug\net9.0\mpv-tui-sharp.pdb
 D:\DEV\proyectos\mpv-tui-sharp\mpv-tui-sharp\obj\Debug\net9.0\mpv-tui-sharp.genruntimeconfig.cache
 D:\DEV\proyectos\mpv-tui-sharp\mpv-tui-sharp\obj\Debug\net9.0\ref\mpv-tui-sharp.dll
+D:\DEV\proyectos\mpv-tui-sharp\mpv-tui-sharp\obj\Debug\net9.0\mpv-tui-sharp.sourcelink.json

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mpv-tui-sharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eef8058a8e9b371c60e63a252e1063598a365a60")]
 [assembly: System.Reflection.AssemblyProductAttribute("mpv-tui-sharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mpv-tui-sharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
